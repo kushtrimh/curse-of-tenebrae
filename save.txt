@@ -1,0 +1,28 @@
+images__8
+name__kusha
+character__noroi
+x_pos__300
+y_pos__250
+items__{'Health Potions': 0, 'Money': 100, 'Apple': 0, 'Magic Potions': 0}
+chest__{}
+level__1
+experience__0
+can_carry__20
+max_health__100
+max_magic__100
+health__50
+magic__50
+strength__30
+defense__20
+weight__0
+kingdom_in__Tenebrae
+world_x__0
+world_y__0
+equipped_clothes__{}
+cloth_on__None
+all_skills__[]
+skills__['punch', 'block', 'regeneration']
+stamina__100
+max_stamina__150
+spell_strength__20
+story__birth_of_a_cursed_one

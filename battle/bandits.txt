@@ -1,0 +1,1 @@
+stoned__dazee__sprites/akaime.png__0__150__150__questions__True__["rise of amboadia", "a", "b", "halo"]__{"health":80, "max_health":80, "magic":150, "max_magic":150, "stamina":200, "max_stamina": 200, "strength": 5, "defense": 5, "spell_strength": 7}__None

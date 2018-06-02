@@ -1,0 +1,2 @@
+bobo__["Hello there!", "I'm working here", "If you needs help go to the City Hall","Never seen you here before.", "The city need me."]
+daisuke__["Hello there!", "I'm working here", "If you needs help go to the City Hall","Never seen you here before.", "The city need me."]

@@ -1,0 +1,9 @@
+terrain__map
+place__(580, 420, 10, 10)
+description__Go to the Harrt Village to help them defend
+bimg0__hello.png
+mimg0__fire.png
+eimg0__hello.png
+enemy0__normal=bobo=sprites/npc/=8=-5000=-5000=talks=False=["punch"]={"health":20, "max_health":100, "magic":50, "max_magic":50, "stamina":60, "max_stamina": 60, "strength": 5, "defense": 5, "spell_strength": 0}=None
+reward__[("self.game.player.items['Money']", 20)]
+skills__["self.game.player.set_skills(['ora punch'])", "self.game.player.set_skills(['dodge'])"]

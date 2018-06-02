@@ -1,0 +1,3 @@
+band.png-Strength:3 Defense:2-30
+cloak.png-Strength:4 Defense:4-40
+tego.png-Strength:16 Defense:15-200

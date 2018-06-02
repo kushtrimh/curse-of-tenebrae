@@ -1,0 +1,14 @@
+# name__img__skilltype__entype__dmgdef__description__cost__countdown__range
+Rise of Amboadia__skills1.png__attack__magic__25__Amboadia(The Cursed Wolf) rises up and goes through the enemy__45__2__single
+Halo__skills1.png__defense__physical__35__Amboadia(The Cursed Wolf) rises up and goes through the enemy__55__2__single
+Kings Palm__skills1.png__attack__physical__60__Amboadia(The Cursed Wolf) rises up and goes through the enemy__100__3__single
+Heavenly Demon__skills1.png__defense__magic__25__Amboadia(The Cursed Wolf) rises up and goes through the enemy__100__3__all
+a__skills1.png__attack__magic__15__Amboadia(The Cursed Wolf) rises up and goes through the enemy__65__4__all
+b__skills1.png__defense__physical__30__Amboadia(The Cursed Wolf) rises up and goes through the enemy__55__5__single
+c__skills1.png__attack__physical__10__Amboadia(The Cursed Wolf) rises up and goes through the enemy__25__2__all
+d__skills1.png__defense__magic__20__Amboadia(The Cursed Wolf) rises up and goes through the enemy__40__1__all
+punch__punch.png__attack__physical__15__Punches the hell out of the enemy__20__0__single
+block__block.png__defense__physical__15__Tries to block incoming attacks on the next turn__15__1__single
+Ora Punch__orapunch.png__attack__magic__20__Attack an enemy with his Ora__15__1__single
+Dodge__dodge.png__defense__physical__25__Tries to dodge an enemy attack__20__2__single
+Regeneration__dodge.png__regen__physical__10__Heals himself__20__2__single

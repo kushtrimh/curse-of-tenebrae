@@ -1,0 +1,3 @@
+type__name__spritedir-or-image__spritecount__x__y__talks__can-chat__skills__{attributes}__None
+normal__bobo__sprites/npc/__8__350__250__talks__False__["rise of amboadia", "a", "halo", "heavenly demon"]__{"health":150, "max_health":150, "magic":150, "max_magic":150, "stamina":200, "max_stamina": 200, "strength": 10, "defense": 5, "spell_strength": 5}__None
+stoned__dazee__sprites/akaime.png__0__150__150__questions__True__["rise of amboadia", "a", "b", "halo"]__{"health":150, "max_health":150, "magic":150, "max_magic":150, "stamina":200, "max_stamina": 200, "strength": 5, "defense": 5, "spell_strength": 7}__None
